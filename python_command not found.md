@@ -14,4 +14,4 @@ Problem solved :
 
 (5)Save the changes and run the code through code runner again. That’s what made it work for me.
 
-<img src="https://global.discourse-cdn.com/business7/uploads/codewithmosh/original/2X/c/cba8eabfcf5820c2f3f3a2d21566a839c9439dea.png7" alt="description of image" width="300" height="200">
+<img src="https://global.discourse-cdn.com/business7/uploads/codewithmosh/original/2X/c/cba8eabfcf5820c2f3f3a2d21566a839c9439dea.png" alt="description of image" width="300" height="200">
